@@ -67,6 +67,10 @@ img.ilust {
     line-height: 48px;
     color: #392B42;
     margin-top: 40px;}
+
+    .row {
+    margin-top: 32px;
+}
 }
 
 @media (min-width: 1200px) {
