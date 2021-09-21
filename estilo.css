@@ -1,0 +1,91 @@
+
+body {
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #392B42;
+}
+
+b {
+    color: #674AA0;
+    font-weight: 500;
+}
+
+a {
+    color: #674AA0;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #E84A49;
+    text-decoration: none;
+}
+
+.row {
+    margin-top: 120px;
+}
+
+img.marca {
+    height: 48px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: 120px;
+    margin-left: 120px;
+}
+
+.descricao {
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 80px;
+    color: #392B42;
+    margin-top: 40px;
+}
+
+.link {
+    font-size: 24px;
+    color: #615569;
+    margin-top: 40px;
+}
+
+img.ilust {
+    width: 560px;
+}
+
+@media (max-width: 1200px)
+.container {
+    max-width: 90%;
+}
+
+.box {
+    background: #fff;
+    padding: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.06);
+    margin-top: -20px;
+    position: relative;
+}
+
+.box a {
+    color: #fb6f6f;
+}
+
+.box a:hover {
+    text-decoration: none;
+}
+
+.dot {
+    font-size: 8px;
+}
+
+.credito {
+    text-align: right;
+}
