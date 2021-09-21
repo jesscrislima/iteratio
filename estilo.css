@@ -57,10 +57,29 @@ img.ilust {
     margin-top: 120px;
 }
 
-@media (max-width: 1200px)
-.container {
-    max-width: 90%;
+
+@media (max-width: 576px) {
+    .descricao {
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #392B42;
+    margin-top: 40px;}
 }
+
+@media (min-width: 1200px) {
+    .descricao {
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 80px;
+    color: #392B42;
+    margin-top: 40px;}
+}
+
 
 .box {
     background: #fff;
