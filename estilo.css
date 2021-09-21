@@ -66,10 +66,14 @@ img.ilust {
     font-size: 36px;
     line-height: 48px;
     color: #392B42;
-    margin-top: 40px;}
+    margin-top: 24px;}
+
+    img.marca {
+    height: 32px;
+}
 
     .row {
-    margin-top: 32px;}
+    margin-top: 40px;}
 
     .link {
     font-size: 16px;
