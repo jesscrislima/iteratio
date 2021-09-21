@@ -69,7 +69,12 @@ img.ilust {
     margin-top: 40px;}
 
     .row {
-    margin-top: 32px;
+    margin-top: 32px;}
+
+    .link {
+    font-size: 16px;
+    color: #615569;
+    margin-top: 40px;
 }
 }
 
